@@ -1,0 +1,5 @@
+com\student\dto\StudentDetails.class
+com\student\dao\StudentDao.class
+com\student\dao\StudentDaoImpl.class
+com\student\service\StudentServiceImpl.class
+com\student\service\StudentService.class
